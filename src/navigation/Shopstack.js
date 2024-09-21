@@ -1,0 +1,35 @@
+import ItemListCategories from '../screens/ItemListCategories';
+import ItemDetail from '../screens/ItemDetail';
+import Home from '../screens/Home';
+
+import { createNativeStackNavigator } from '@react-navigation/native-stack';
+import Header from '../components/Header';
+
+
+const Stack = createNativeStackNavigator()
+
+
+const Shopstack = () => {
+    return (
+        <Stack.Navigator
+            screenOptions={(
+                ({route})=>{
+                    return{
+                        header:() => <Header title={
+                            route.name === "Home" ? "Tenis para Todos" : 
+                            route.name === "Products" ? route.params.category : "Detalle del Producto"
+                        } />
+                    }
+                }
+            )}
+            
+            >
+                <Stack.Screen name='Home' component={Home} />
+                <Stack.Screen name='Products' component={ItemListCategories} />
+                <Stack.Screen name='Detail' component={ItemDetail} />
+            </Stack.Navigator>
+    )
+}
+
+export default Shopstack
+

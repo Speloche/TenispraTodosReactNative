@@ -44,10 +44,16 @@ Esta aplicación de comercio electrónico, desarrollada con React Native, ofrece
    ```bash
    git clone https://github.com/tu-usuario/tu-aplicacion.git
 
-2. Instala las dependencias: `npm install`
+2. Instala las dependencias usando Yarn: `yarn install`
+
+   > **Nota:** Este proyecto utiliza Yarn como gestor de paquetes. Asegúrate de tenerlo instalado en tu sistema.
+
 3. Configura las claves de API para servicios externos (Expo-Location, Firebase, etc.).
 4. Configura las credenciales de Firebase en tu proyecto.
-5. Ejecuta la aplicación: `npm start`
+5. Ejecuta la aplicación: `yarn start`
 
 
 
+## Contacto
+
+Para preguntas o soporte, contacta a sape_27@hotmail.com.

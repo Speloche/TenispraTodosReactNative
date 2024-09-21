@@ -1,0 +1,251 @@
+[{
+    "id": 0,
+    "title": "Pelotas Wilson Regular Duty",
+    "description": "Las pelotas Wilson Regular Duty son ideales para todo tipo de superficies",
+    "price": 11,
+    "discountPercentage": 10,
+    "rating": 4.74,
+    "stock": 133,
+    "brand": "Wilson",
+    "category": "Pelotas",
+    "thumbnail": "https://i.postimg.cc/fbyF0dT8/wilson-extraduty.png",
+    "images": [
+        "https://i.postimg.cc/fbyF0dT8/wilson-extraduty.png"
+        
+    ]
+},
+{
+    "id": 1,
+    "title": "Wilson Blade 98 V8",
+    "description": "Raqueta de grafito y basalto de 305 g, Tamaño de la cabeza: 98 in², Encordado 18/20",
+    "price": 249,
+    "discountPercentage": 5,
+    "rating": 4.69,
+    "stock": 94,
+    "brand": "Wilson",
+    "category": "Raquetas",
+    "thumbnail": "https://i.postimg.cc/151LY4Jz/wilson-blade.jpg",
+    "images": [
+        "https://i.postimg.cc/151LY4Jz/wilson-blade.jpg"
+        
+    ]
+},
+{
+    "id": 2,
+    "title": "Over Grips Tecnifibre Wax Feel ",
+    "description": "Ideal para absorber la sudoración en altas temperaturas. Adherencia máxima.",
+    "price": 9,
+    "discountPercentage": 3,
+    "rating": 4.44,
+    "stock": 34,
+    "brand": "Tecnifibre",
+    "category": "OverGrips",
+    "thumbnail": "https://i.postimg.cc/zffmSMpS/grip-feel.jpg",
+    "images": [
+        "https://i.postimg.cc/zffmSMpS/grip-feel.jpg"   
+    ]
+},
+{
+    "id": 3,
+    "title": "Pelotas Wilson Tour Clay",
+    "description": "Pelotas para Polvo de ladrillo construidas para resistir la humedad",
+    "price": 11,
+    "discountPercentage": 4,
+    "rating": 4.09,
+    "stock": 36,
+    "brand": "Wilson",
+    "category": "Pelotas",
+    "thumbnail": "https://i.postimg.cc/t42wTky1/wilson-tour-clay.jpg",
+    "images": [
+        "https://i.postimg.cc/t42wTky1/wilson-tour-clay.jpg"
+    ]
+},
+{
+    "id": 4,
+    "title": "Grips Tecnifibre Contact Slim",
+    "description": "Menos grueso que un sobregrip clásico para reducir el aumento del mango ",
+    "price": 10,
+    "discountPercentage": 4,
+    "rating": 4.3,
+    "stock": 123,
+    "brand": "Tecnifibre",
+    "category": "OverGrips",
+    "thumbnail": "https://i.postimg.cc/q7DPmL5f/grip-slim.jpg",
+    "images": [
+        "https://i.postimg.cc/q7DPmL5f/grip-slim.jpg"
+        
+    ]
+},
+{
+    "id": 5,
+    "title": "Babolat Pure Drive",
+    "description": "Raqueta de grafito de 310 g, Tamaño de la cabeza: 100 in², Encordado 16/19",
+    "price": 320,
+    "discountPercentage": 10,
+    "rating": 4.09,
+    "stock": 32,
+    "brand": "Babolat",
+    "category": "Raquetas",
+    "thumbnail": "https://i.postimg.cc/xjzwRLG7/pure-drive.jpg",
+    "images": [
+        "https://i.postimg.cc/xjzwRLG7/pure-drive.jpg"
+    ]
+},
+{
+    "id": 6,
+    "title": "Grips Tecnifibre Contact Pro",
+    "description": "Sobregrip que optimiza el agarre de la raqueta con un tacto adherente.",
+    "price": 13,
+    "discountPercentage": 7,
+    "rating": 4.57,
+    "stock": 83,
+    "brand": "Tecnifibre",
+    "category": "OverGrips",
+    "thumbnail": "https://i.postimg.cc/52gdz152/grip-contact-pro.jpg",
+    "images": [
+        "https://i.postimg.cc/52gdz152/grip-contact-pro.jpg"
+    ]
+},
+{
+    "id": 7,
+    "title": "Babolat Pure Aero Rafa",
+    "description": "Raqueta de grafito de 317 g, Tamaño de la cabeza: 98 in², Encordado 16/20",
+    "price": 367,
+    "discountPercentage": 4.15,
+    "rating": 4.25,
+    "stock": 50,
+    "brand": "Babolat",
+    "category": "Raquetas",
+    "thumbnail": "https://i.postimg.cc/vB1pCVJ4/pure-aero-rafa.jpg",
+    "images": [
+        "https://i.postimg.cc/vB1pCVJ4/pure-aero-rafa.jpg"
+        
+    ]
+},
+{
+    "id": 8,
+    "title": "Babolat Pure Strike",
+    "description": "Raqueta de grafito de 305 g, Tamaño de la cabeza: 100 in², Encordado 16/19",
+    "price": 280,
+    "discountPercentage": 10,
+    "rating": 4.43,
+    "stock": 68,
+    "brand": "Babolat",
+    "category": "Raquetas",
+    "thumbnail": "https://i.postimg.cc/B6dd3v3M/pure-strike.jpg",
+    "images": [
+        "https://i.postimg.cc/B6dd3v3M/pure-strike.jpg"
+        
+    ]
+},
+{
+    "id": 9,
+    "title": "Wilson Clash 100 V2",
+    "description": "Raqueta de grafito de 300 g, Tamaño de la cabeza: 100 in², Encordado 16/19",
+    "price": 269,
+    "discountPercentage": 11,
+    "rating": 4.54,
+    "stock": 96,
+    "brand": "Wilson",
+    "category": "Raquetas",
+    "thumbnail": "https://i.postimg.cc/wj6ngZK8/wilson-clash.png",
+    "images": [
+        "https://i.postimg.cc/wj6ngZK8/wilson-clash.png"
+    ]
+},
+{
+    "id": 10,
+    "title": "Pelotas Wilson Roland Garros",
+    "description": "Pelota de alto rendimiento especial para Polvo de ladrillo .Pelota Oficial de Roland Garros ",
+    "price": 16,
+    "discountPercentage": 6,
+    "rating": 4.43,
+    "stock": 89,
+    "brand": "Wilson",
+    "category": "Pelotas",
+    "thumbnail": "https://i.postimg.cc/GhPZ0r5x/wilson-roland.jpg",
+    "images": [
+        "https://i.postimg.cc/GhPZ0r5x/wilson-roland.jpg"
+        
+    ]
+},
+{
+    "id": 11,
+    "title": "Pelotas Wilson Heavy Duty",
+    "description": "Las pelotas Wilson Regular Duty son ideales para todo tipo de superficies",
+    "price": 11,
+    "discountPercentage": 8,
+    "rating": 4.26,
+    "stock": 65,
+    "brand": "Wilson",
+    "category": "Pelotas",
+    "thumbnail": "https://i.postimg.cc/fbyF0dT8/wilson-extraduty.png",
+    "images": [
+        "https://i.postimg.cc/fbyF0dT8/wilson-extraduty.png"
+        
+    ]
+},
+{
+    "id": 12,
+    "title": "Wilson SHIFT 99 V1 ",
+    "description": "Ideal para jugadores de nivel intermedio a avanzado y versátiles, la Shift 99 tiene un innovador patrón de encordado y un perfil de flexión construido para ser estable, pero lateralmente flexible para una potencia controlable y un efecto devastador.",
+    "price": 280,
+    "discountPercentage": 15,
+    "rating": 4,
+    "stock": 52,
+    "brand": "Wilson",
+    "category": "Raquetas",
+    "thumbnail": "https://i.postimg.cc/bv88qpdd/wilson-shift.png",
+    "images": [
+        "https://i.postimg.cc/bv88qpdd/wilson-shift.png"
+        
+    ]
+},
+{
+    "id": 13,
+    "title": "Wilson KAOS STROKE",
+    "description": "El calzado mas amortiguado y estable de la linea Kaos de Wilson, la Kaos Stroke 2.0 prioriza la comodidad en cada paso en la pista.",
+    "price": 110,
+    "discountPercentage": 8.14,
+    "rating": 4.59,
+    "stock": 61,
+    "brand": "Wilson",
+    "category": "Zapatillas",
+    "thumbnail": "https://i.postimg.cc/26y5frXh/Wilson-Kaos.png",
+    "images": [
+        "https://i.postimg.cc/26y5frXh/Wilson-Kaos.png"
+    ]
+},
+{
+    "id": 14,
+    "title": "Babolat Pulsion Clay Men",
+    "description": "La suela Michelin Clay está diseñada para jugar sobre polvo de ladrillo, proporciona una estupenda amortiguación y protección de los impactos.",
+    "price": 98,
+    "discountPercentage": 7,
+    "rating": 4.21,
+    "stock": 114,
+    "brand": "Babolat",
+    "category": "Zapatillas",
+    "thumbnail": "https://i.postimg.cc/7hgcbT5z/babolat-pulsion.png",
+    "images": [
+        "https://i.postimg.cc/7hgcbT5z/babolat-pulsion.png"
+        
+    ]
+},
+{
+    "id": 15,
+    "title": "ASICS GEL RESOLUTION 9",
+    "description": "La tecnología Dynawall entre la suela ahora se extiende al talón para una mayor estabilidad durante los movimientos laterales",
+    "price": 200,
+    "discountPercentage": 10,
+    "rating": 4.7,
+    "stock": 105,
+    "brand": "Asics",
+    "category": "Zapatillas",
+    "thumbnail": "https://i.postimg.cc/DyNsmYKq/asics-gel-resolution9.png",
+    "images": [
+        "https://i.postimg.cc/DyNsmYKq/asics-gel-resolution9.png"
+    ]
+}
+
+]
