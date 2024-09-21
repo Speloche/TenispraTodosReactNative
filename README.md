@@ -8,7 +8,8 @@ Esta aplicación de comercio electrónico, desarrollada con React Native, ofrece
 <img src="./screenshots/productDetail.jpg" width="300" >
 
 - **Catálogo de Productos:** Muestra una variedad de tenis con detalles, imágenes y precios.
-<img src="./screenshots/categorias.jpg" width="300" >   <img src="./screenshots/productList.jpg" width="300" >
+<img src="./screenshots/categorias.jpg" width="300" >
+<img src="./screenshots/productList.jpg" width="300" >
 
 -**Carrito de Compras:** Permite a los usuarios añadir productos, revisar su selección y proceder al pago.
 <img src="./screenshots/carrito.jpg" width="300" >
@@ -18,7 +19,8 @@ Esta aplicación de comercio electrónico, desarrollada con React Native, ofrece
 - Implementa el robusto sistema de autenticación de Firebase para asegurar un control efectivo del acceso.
 - Ofrece a los usuarios la posibilidad de registrarse e iniciar sesión de forma segura, garantizando la protección de su información personal.
 
-<img src="./screenshots/inicioSesion.jpg" width="300" >               <img src="./screenshots/registro.jpg" width="300" >
+<img src="./screenshots/inicioSesion.jpg" width="300" >               
+<img src="./screenshots/registro.jpg" width="300" >
 
 ### Pantalla de Cuenta
 
